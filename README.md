@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+## 📫 How to reach me
+[![](https://img.shields.io/badge/Pawee%20T.-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawee-tanti/)
+[![](https://img.shields.io/badge/pawee.tanti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawee.tanti@gmail.com)
 <!--
 **mewpawee/mewpawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
