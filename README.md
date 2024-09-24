@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 A maker, an entrepreneur, and blockchain enthusiast.
-- 📝 I'm writing a blog at [mewpawee.xyz](https://www.mewpawee.xyz)
+- 📝 I'm writing a blog at [peatea.me](https://www.peatea.me)
 - ⚽️ 🏀 🧗 🛹 🎮 lover 
 <!--
 **mewpawee/mewpawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
